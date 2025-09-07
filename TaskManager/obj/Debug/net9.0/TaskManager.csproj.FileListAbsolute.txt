@@ -1,0 +1,15 @@
+D:\Projects\dotnet-playground\TaskManager\bin\Debug\net9.0\TaskManager.exe
+D:\Projects\dotnet-playground\TaskManager\bin\Debug\net9.0\TaskManager.deps.json
+D:\Projects\dotnet-playground\TaskManager\bin\Debug\net9.0\TaskManager.runtimeconfig.json
+D:\Projects\dotnet-playground\TaskManager\bin\Debug\net9.0\TaskManager.dll
+D:\Projects\dotnet-playground\TaskManager\bin\Debug\net9.0\TaskManager.pdb
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.AssemblyInfoInputs.cache
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.AssemblyInfo.cs
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.sourcelink.json
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.dll
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\refint\TaskManager.dll
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.pdb
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\TaskManager.genruntimeconfig.cache
+D:\Projects\dotnet-playground\TaskManager\obj\Debug\net9.0\ref\TaskManager.dll
